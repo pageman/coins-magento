@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Coins_Gateway>
+            <active>true</active>
+            <codePool>community</codePool>
+            <depends>
+            </depends>
+        </Coins_Gateway>
+    </modules>
+</config>
